@@ -1,0 +1,32 @@
+{
+	"name": "walkthrough.02",
+	"version": "1.0.0",
+	"buildTimestamp": "202212222013",
+	"scmRevision": "",
+	"libraries": [
+		{
+			"name": "sap.m",
+			"version": "1.109.0",
+			"buildTimestamp": "202212222013",
+			"scmRevision": ""
+		},
+		{
+			"name": "sap.ui.core",
+			"version": "1.109.0",
+			"buildTimestamp": "202212222013",
+			"scmRevision": ""
+		},
+		{
+			"name": "sap.ui.layout",
+			"version": "1.109.0",
+			"buildTimestamp": "202212222013",
+			"scmRevision": ""
+		},
+		{
+			"name": "sap.ui.unified",
+			"version": "1.109.0",
+			"buildTimestamp": "202212222013",
+			"scmRevision": ""
+		}
+	]
+}
